@@ -1,56 +1,4 @@
-<style>
-  .falling-notes {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    z-index: -1; 
-    overflow: hidden;
-  }
-  .note {
-    position: absolute;
-    font-size: 44px;
-    color: #009929; 
-    opacity: 0.7;
-    animation: fall linear infinite;
-  }
-  @keyframes fall {
-    0% {
-      transform: translateY(-100px) rotate(0deg);
-      opacity: 0.7;
-    }
-    100% {
-      transform: translateY(100vh) rotate(360deg);
-      opacity: 0;
-    }
-  }
 
-  .note:nth-child(1) { left: 10%; animation-duration: 10s; animation-delay: 0s; }
-  .note:nth-child(2) { left: 20%; animation-duration: 12s; animation-delay: 2s; }
-  .note:nth-child(3) { left: 30%; animation-duration: 8s; animation-delay: 4s; }
-  .note:nth-child(4) { left: 40%; animation-duration: 15s; animation-delay: 1s; }
-  .note:nth-child(5) { left: 50%; animation-duration: 9s; animation-delay: 3s; }
-  .note:nth-child(6) { left: 60%; animation-duration: 11s; animation-delay: 5s; }
-  .note:nth-child(7) { left: 70%; animation-duration: 13s; animation-delay: 0.5s; }
-  .note:nth-child(8) { left: 80%; animation-duration: 7s; animation-delay: 2.5s; }
-  .note:nth-child(9) { left: 90%; animation-duration: 14s; animation-delay: 1.5s; }
-  .note:nth-child(10) { left: 15%; animation-duration: 10.5s; animation-delay: 3.5s; }
-</style>
-
-<div class="falling-notes">
-  <div class="note">♪</div>
-  <div class="note">♫</div>
-  <div class="note">♬</div>
-  <div class="note">♪</div>
-  <div class="note">♫</div>
-  <div class="note">♬</div>
-  <div class="note">♪</div>
-  <div class="note">♫</div>
-  <div class="note">♬</div>
-  <div class="note">♪</div>
-</div>
 
 <div align="center">
   
@@ -58,12 +6,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloteclas.official/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdj3114@gmail.com)
 
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=240&color=009929&text=Marcelo%20de%20Jesus&animation=blink&section=header&fontAlign=50&textBg=false&fontColor=fff&animation=blink&fontSize=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+de+Jesus;I'm+25+years+old;I+am+from+Brasil,+BA;I+study+analysis+and+systems+development+at+IFBA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
+<img src="output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
+</div>
 
 ## 🚀 About Me:
 I'm a backend developer and just starting out in frontend, passionate about solving problems with clean, well-structured code. Currently focused on the **Java + Spring Boot** ecosystem, but always learning something new to become a well-rounded professional.  
