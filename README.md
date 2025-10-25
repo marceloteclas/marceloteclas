@@ -11,7 +11,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=240&color=009929&text=Marcelo%20de%20Jesus&animation=blink&section=header&fontAlign=50&textBg=false&fontColor=fff&animation=blink&fontSize=50"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marceloteclas/marceloteclas/main/output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
+  <img src="https://github.com/marceloteclas/marceloteclas/blob/4001fdcaf55887e0bd88f5e182306cfd794ec1f0/output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
 </div>
 
 
