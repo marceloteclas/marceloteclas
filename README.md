@@ -20,7 +20,9 @@
 I'm a backend developer and just starting out in frontend, passionate about solving problems with clean, well-structured code. Currently focused on the **Java + Spring Boot** ecosystem, but always learning something new to become a well-rounded professional.  
 Also a **singer and songwriter**, blending creativity from both music and programming.
 
-
+<div align="center">
+  <img src="https://github.com/marceloteclas/marceloteclas/blob/main/output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
+</div>
 ---
 
 ### 🛠️ Main Skills:
