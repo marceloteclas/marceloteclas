@@ -6,15 +6,15 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=240&color=009929&text=Marcelo%20de%20Jesus&animation=blink&section=header&fontAlign=50&textBg=false&fontColor=fff&animation=blink&fontSize=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=240&color=009929&text=🎹%20Marcelo%20de%20Jesus%20👨‍💻&animation=blink&section=header&fontAlign=50&textBg=false&fontColor=fff&animation=blink&fontSize=50"/>
 
 <div align="center">
   <img src="output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
 </div>
 
 ## 🚀 About Me:
-I'm a backend developer and just starting out in frontend, passionate about solving problems with clean, well-structured code. Currently focused on the **Java + Spring Boot** ecosystem, but always learning something new to become a well-rounded professional.  
-Also a **singer and songwriter**, blending creativity from both music and programming.
+I'm a backend developer and just starting out in frontend, passionate about solving problems with clean, well-structured code.  
+🎤 Also a **singer and songwriter**, blending creativity from both music and programming.
 
 ---
 
@@ -28,7 +28,7 @@ Also a **singer and songwriter**, blending creativity from both music and progra
 
 ---
 
-### 🔧 Tools:
+### 🔧 Tools 🎹:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
