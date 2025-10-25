@@ -11,8 +11,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=240&color=009929&text=Marcelo%20de%20Jesus&animation=blink&section=header&fontAlign=50&textBg=false&fontColor=fff&animation=blink&fontSize=50"/>
 
 <div align="center">
-<img src="output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
+  <img src="https://raw.githubusercontent.com/marceloteclas/marceloteclas/main/output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
 </div>
+
 
 ## 🚀 About Me:
 I'm a backend developer and just starting out in frontend, passionate about solving problems with clean, well-structured code. Currently focused on the **Java + Spring Boot** ecosystem, but always learning something new to become a well-rounded professional.  
