@@ -25,7 +25,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
           output_directory: dist
-          player_style: oportunista
 
       - name: Publicar SVG na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
