@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
@@ -64,8 +62,7 @@ Also a **singer and songwriter**, blending creativity from both music and progra
 </div>
 
 ---
-
-![Pacman animation](https://github.com/marceloteclas/marceloteclas/blob/output/pacman-contribution-graph.svg)
+![Pac-Man graph](https://github.com/marceloteclas/marceloteclas/blob/output/pacman-contribution-graph-dark.svg)
 ---
 
 
