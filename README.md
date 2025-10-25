@@ -21,8 +21,9 @@ I'm a backend developer and just starting out in frontend, passionate about solv
 Also a **singer and songwriter**, blending creativity from both music and programming.
 
 <div align="center">
-  <img src="https://github.com/marceloteclas/marceloteclas/blob/main/output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
+  <img src="output.gif" width="100%" height="500px" alt="Notas musicais caindo"/>
 </div>
+
 ---
 
 ### 🛠️ Main Skills:
