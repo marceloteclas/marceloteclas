@@ -62,15 +62,10 @@ I'm a backend developer and just starting out in frontend, passionate about solv
 </div>
 
 ---
+![Metrics](https://github.com/marceloteclas/marceloteclas/blob/main/github-metrics.svg)
+
 ![Pac-Man graph](https://github.com/marceloteclas/marceloteclas/blob/output/pacman-contribution-graph-dark.svg)
 ---
-
-
-
-<!--<p align="center"> 
-  Visitor count<br> 
-  <img src="https://profile-counter.glitch.me/ronaldo-correia/count.svg" />
-</p> -->
 
 <div align="center">
 
