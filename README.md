@@ -62,7 +62,7 @@ Also a **singer and songwriter**, blending creativity from both music and progra
 </div>
 
 ---
-![Pac-Man graph](https://github.com/marceloteclas/marceloteclas/blob/output/pacman-contribution-graph.svg)
+![Pac-Man graph](https://github.com/marceloteclas/marceloteclas/blob/output/pacman-contribution-graph-dark.svg)
 ---
 
 
